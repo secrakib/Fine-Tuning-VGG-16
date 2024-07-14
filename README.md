@@ -11,10 +11,10 @@
 - Can't Train the Model after 1 epoch as Google Colab was Frequently Shutting Down Operation  
 
 # Pre-Trained Model Variations
-1. Freezed Convulation Layers Weights  
-2. Freezed Fully Connected Layers Weights   
+1. Froze Convulation Layers Weights Update  
+2. Froze Fully Connected Layers Weights Update  
 3. Developed Model From Scratch    
-4. Using Pre-trained Model Weights
+4.  Trained Using Pre-trained Model Weights
 
 
 # Dataset
